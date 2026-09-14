@@ -6,3 +6,4 @@ jenkins is a integration tool
 it is used for ci/cd
 tools requried to install jenkins
 before installation are java-17
+and maven to build
