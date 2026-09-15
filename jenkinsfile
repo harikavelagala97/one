@@ -5,6 +5,7 @@ jenkins
 jenkins is a integration tool
 it is used for ci/cd
 tools requried to install jenkins
+ensure there is enough gb for jenkins server
 before installation are java-21
 and maven to build
 created webhook and trigger git hook
