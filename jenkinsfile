@@ -7,4 +7,5 @@ it is used for ci/cd
 tools requried to install jenkins
 before installation are java-21
 and maven to build
-created webhook and trigger hook
+created webhook and trigger git hook
+and update timedatectl
