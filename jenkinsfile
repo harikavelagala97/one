@@ -11,3 +11,4 @@ and maven to build
 created webhook and trigger git hook
 and update timedatectl
 tomcat server add deploy to container plugin
+and also add mvn intergration plugin
