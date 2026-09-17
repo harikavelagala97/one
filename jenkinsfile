@@ -13,3 +13,4 @@ and update timedatectl
 tomcat server add deploy to container plugin
 and also add mvn intergration plugin
 downloaded mobaxterm and generated a new session
+go to ssh and download the keypair and click on ok
